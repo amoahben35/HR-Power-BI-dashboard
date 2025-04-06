@@ -55,7 +55,8 @@ This project aims to transform raw HR data into meaningful visuals and insights.
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](./path-to-your-screenshot.png)
+![image](https://github.com/user-attachments/assets/b086451e-c42c-4c7d-9f1a-1c728e4cace9)
+
 
 ---
 
